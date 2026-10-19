@@ -1,6 +1,6 @@
 name: Upload Artifacts
 
-on: [push]
+'on': [push]
 
 jobs:
   build:
